@@ -13,7 +13,21 @@ The project will investigate whether historical customer behavior can be used to
 Because the dataset is synthetic, the findings will demonstrate analytical methods and potential business applications rather than establish facts about actual retail customers in Egypt.
 
 # Repository Structure
+```
+lotus-group-customer-behavior-analysis
+│
+├── 01_Data/
+│   ├── raw/
+│   └── processed/
+│
+├── 02_Docs/
+├── 03_Notebooks/
+│   └── project_charter/
+├── 04_Src/
+├── .gitignore
+└── README.md
 
+```
 
 # General Objective
 
